@@ -9,7 +9,7 @@ Group mentor: SINENJABULO GOGWANA
 
 Project title: FLAPPY BIRD 2.0
 
-Project page: https://github.com/g24m3630/Epic-car
+Project page:(https://github.com/g24m3630/Tshephang)
 
 Instructions for use (allowable actions): For Windows devices a player has to tab spacebar to make the bird flop its wing and fly upwards, however if the user stops taping the spacebar key the bird will fall and the game ends. And for mobile phone the player has to tap on the screen to make the bird flop its wings and fly upwards. 
 
